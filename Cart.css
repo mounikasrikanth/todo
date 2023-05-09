@@ -1,0 +1,26 @@
+.card{
+background-color:rgb(231, 222, 184);
+border-radius: 9px;
+max-width:300px;
+border: double;
+}
+
+.button{
+    color:rgb(253, 253, 250);
+    border-radius: 9px;
+    background-color: rgb(65, 82, 76);
+}
+.button_1{
+    background-color:rgb(61, 57, 63);
+color: wheat;
+}
+.input{
+background-color:rgb(59, 49, 65);
+
+    border-radius: 9px;
+    color: white;
+}
+.inp{
+    border-radius: 9px;
+    background-color: darkgray;
+}
